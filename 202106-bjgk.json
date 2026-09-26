@@ -61,7 +61,7 @@
       "text": "“好知”二句：喜好聪慧却不喜好学习，它的弊病是放荡无守。",
       "format": {
         "indent": {
-          "kind": "paragraph",
+          "kind": "firstLine",
           "level": 2
         }
       }
@@ -71,7 +71,7 @@
       "text": "“好信”二句：讲求诚信却不喜好学习，它的弊病是带来伤害。",
       "format": {
         "indent": {
-          "kind": "paragraph",
+          "kind": "firstLine",
           "level": 2
         }
       }
@@ -81,7 +81,7 @@
       "text": "“好直”二句：讲求直率而不喜好学习，它的弊病是尖刻伤人。",
       "format": {
         "indent": {
-          "kind": "paragraph",
+          "kind": "firstLine",
           "level": 2
         }
       }
@@ -91,7 +91,7 @@
       "text": "“好勇”二句：追求勇敢却不喜好学习，它的弊病是好斗作乱。",
       "format": {
         "indent": {
-          "kind": "paragraph",
+          "kind": "firstLine",
           "level": 2
         }
       }
@@ -101,20 +101,15 @@
       "text": "“好刚”二句：喜好刚强却不喜好学习，它的弊病是狂妄自大。",
       "format": {
         "indent": {
-          "kind": "paragraph",
+          "kind": "firstLine",
           "level": 2
         }
       }
     },
     {
-      "type": "regular",
+      "type": "note",
       "text": "（答出其中的两个即可）",
-      "format": {
-        "indent": {
-          "kind": "paragraph",
-          "level": 2
-        }
-      }
+      "format": {}
     }
   ]
 }
