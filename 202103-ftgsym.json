@@ -49,14 +49,75 @@
     },
     {
       "type": "regular",
-      "text": "（1）请解释“一言以蔽之”与“鲤趋而过庭”。（2分）",
+      "text": "（1）请解释“一言以蔽之”与“鲤趋而过庭”。（2 分）",
       "format": {}
     },
     {
       "type": "regular",
-      "text": "（2）综合以上材料，简述孔子重视学习《诗经》的理由。（4分）",
+      "text": "（2）综合以上材料，简述孔子重视学习《诗经》的理由。（4 分）",
       "format": {}
     }
   ],
-  "answer": []
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）①用一句话来概括它（1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②鲤恭敬地快步走过庭院（1 分）",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】共 2 分。一句 1 分；意思对即可。 ",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）①《诗经》所表达的思想纯正，对人的健康成长有益；",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②学习《诗经》可以增长解决政治问题的知识，对提高人的治国能力有益；",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③学习《诗经》可以增加解决外交问题的知识，对提高人的外交水平有益；",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "④学习《诗经》可以增长语言表达方面的知识，对提高应对能力有益。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】共 4 分。回答一点得 1 分，回答两点得 3 分，回答三点得满分；意思对即可。",
+      "format": {}
+    }
+  ]
 }
