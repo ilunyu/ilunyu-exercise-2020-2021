@@ -1,0 +1,107 @@
+name: Validate and release resource
+
+on:
+  pull_request:
+    branches: [dev, main]
+  push:
+    branches: [dev, main]
+  workflow_dispatch:
+
+concurrency:
+  group: resource-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      has-exercises: ${{ steps.exercises.outputs.present }}
+      version-name: ${{ steps.resource.outputs.version_name }}
+      version-code: ${{ steps.resource.outputs.version_code }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Read resource version
+        id: resource
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
+          resource = json.loads(Path("resource.json").read_text(encoding="utf-8"))
+          print(f"version_name={resource['versionName']}")
+          print(f"version_code={resource['versionCode']}")
+          PY
+      - name: Check release version
+        if: github.event_name == 'pull_request' && github.base_ref == 'main'
+        run: python3 tools/check_release_version.py --previous-ref "${{ github.event.pull_request.base.sha }}"
+      - name: Detect published exercises
+        id: exercises
+        run: |
+          if find . -maxdepth 1 -type f -name '*.json' ! -name resource.json -print -quit | grep -q .; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate exercises
+        if: steps.exercises.outputs.present == 'true'
+        run: python3 tools/validate_exercises.py
+      - name: Build Android resource package
+        if: steps.exercises.outputs.present == 'true'
+        run: >-
+          python3 tools/build_resource_package.py
+          --source-repository "https://github.com/${{ github.repository }}"
+          --output dist/resource.ilunyupack
+      - name: Upload package artifact
+        if: steps.exercises.outputs.present == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-resource-package
+          path: dist/
+
+  release:
+    needs: validate-and-package
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Download resource package
+        if: needs.validate-and-package.outputs.has-exercises == 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: android-resource-package
+          path: dist/
+      - name: Create tag and GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION_NAME: ${{ needs.validate-and-package.outputs.version-name }}
+          HAS_EXERCISES: ${{ needs.validate-and-package.outputs.has-exercises }}
+        run: |
+          tag="v${VERSION_NAME}"
+          remote_sha="$(git ls-remote origin "refs/tags/${tag}" | cut -f1)"
+          if [ -n "$remote_sha" ] && [ "$remote_sha" != "$GITHUB_SHA" ]; then
+            echo "${tag} already points to another commit: ${remote_sha}" >&2
+            exit 1
+          fi
+          if [ -z "$remote_sha" ]; then
+            git tag "$tag" "$GITHUB_SHA"
+            git push origin "$tag"
+          fi
+          if gh release view "$tag" >/dev/null 2>&1; then
+            if [ "$HAS_EXERCISES" = "true" ]; then
+              gh release upload "$tag" dist/* --clobber
+            fi
+          elif [ "$HAS_EXERCISES" = "true" ]; then
+            gh release create "$tag" dist/* --title "$tag" --generate-notes
+          else
+            gh release create "$tag" --title "$tag" --generate-notes
+          fi
