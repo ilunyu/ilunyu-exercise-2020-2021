@@ -1,0 +1,88 @@
+{
+  "id": "202012-mygsqm",
+  "title": "2021·密云高三期末",
+  "year": "2020-2021",
+  "month": 202012,
+  "source": "密云",
+  "grade": 3,
+  "type": "期末",
+  "number": 3,
+  "score": 4,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面的文字，分别概括《论语》中孔子认为正确的学习态度。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 620,
+      "blocktitle": "（1）",
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "“知之者不如好之者，好之者不如乐之者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 612,
+      "blocktitle": "（2）",
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "“力不足者，中道而废，今女画。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 702,
+      "blocktitle": "（3）",
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "“默而识之，学而不厌。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 722,
+      "blocktitle": "（4）",
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "“三人行，必有我师焉，择其善者而从之，其不善者而改之。”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）追求学问首先在于爱学、乐学，真正爱好它的人，为它而快乐的人才能真正学好它。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）要知难而进，不要半途而废。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）学习要有踏踏实实的精神，默默地记住学到的知识，努力学习而不满足。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（4）学习要虚心求教，不耻下问，注意向他人学习，取人之长，补己之短。",
+      "format": {}
+    }
+  ]
+}

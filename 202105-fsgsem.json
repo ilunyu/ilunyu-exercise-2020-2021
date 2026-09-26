@@ -1,0 +1,112 @@
+{
+  "id": "202105-fsgsem",
+  "title": "2021·房山二模",
+  "year": "2020-2021",
+  "month": 202105,
+  "source": "房山",
+  "grade": 3,
+  "type": "二模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 307,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子无所争，必也射乎！揖让而升，下而饮。其争也君子。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 15
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1532,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子谋道不谋食。耕也，馁在其中矣；学也，禄在其中矣。君子忧道不忧贫。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1523,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子不以言举人，不以人废言。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 2003,
+      "sourcename": "《论语·尧曰》",
+      "paragraphs": [
+        {
+          "text": "子曰：“不知命，无以为君子也；不知礼，无以立也；不知言，无以知人也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）人们对“君子无所争”的“争”字有不同的解释，有人认为是“争夺”的意思，有人认为是“以力相争”的意思。请分别以“争”的这两种不同解释为前提，翻译划线句子：君子无所争，必也射乎！（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请结合以上四则材料，分析孔子心目中的“君子”形象是怎样的。（4 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）【参考答案及赋分建议】第一种翻译：君子没有什么可争夺的事情，如果有所争，一定是比赛射箭吧！（1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "第二种翻译：君子不以力相争，如果一定要相力争的话，那么礼射之时可以！（1 分）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评阅建议】意思对即可得分。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）【参考答案及赋分建议】孔子心目中的君子形象是：为人宽怀礼让，不与人争夺（或：不以力与人相争）；（1 分）追求道义，不在意物质生活；（1 分）站在公正的立场上识人、断言；（1 分）能够做到乐知天命。（1 分）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评阅建议】意思对即可得分。",
+      "format": {}
+    }
+  ]
+}

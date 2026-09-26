@@ -1,0 +1,96 @@
+{
+  "id": "202104-tzgsym",
+  "title": "2021·通州一模",
+  "year": "2020-2021",
+  "month": 202104,
+  "source": "通州",
+  "grade": 3,
+  "type": "一模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 417,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“见贤思齐焉，见不贤而内自省也。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 8
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1901,
+      "sourcename": "《子张》",
+      "paragraphs": [
+        {
+          "text": "子张曰：“士见危致命，见得思义，祭思敬，丧思哀，其可已矣。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 11,
+                  "end": 15
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1906,
+      "sourcename": "《子张》",
+      "paragraphs": [
+        {
+          "text": "子夏曰：“博学而笃志，切问而近思，仁在其中矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“见贤思齐”与“见得思义”。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上材料，请分条简述“思”对于提升个人修养的意义。（4 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）见贤思齐：见到有德行的人想向他看齐。见得思义：遇到得利的事要考虑是否符合正义。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）意义：树立人生榜样，约束言行举止，提升思想境界。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分说明】1 点 1 分，语言表达 1 分。",
+      "format": {}
+    }
+  ]
+}
