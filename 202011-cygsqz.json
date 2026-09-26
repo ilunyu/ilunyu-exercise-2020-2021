@@ -1,0 +1,82 @@
+{
+  "id": "202011-cygsqz",
+  "title": "2020·朝阳高三期中",
+  "year": "2020-2021",
+  "month": 202011,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "期中",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "下面《论语》中，孔子对“食”的态度是什么？反映了怎样的思想？请简要概括。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 114,
+      "sourcename": "《学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子食无求饱，居无求安，敏于事而慎于言，就有道而正，可谓好学也已。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 716,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1007,
+      "sourcename": "《乡党》",
+      "paragraphs": [
+        {
+          "text": "齐【1】必变食，居必迁坐。",
+          "format": {}
+        },
+        {
+          "text": "食不厌精，脍不厌细。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：【1】齐，同“斋”，斋戒。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案要点：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "态度：饮食要有节制；饮食不惧粗劣；斋戒用的食物要精细。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "思想：不刻意追求物质享受，重视修德修身；安贫乐道；重视礼。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "每一点1分，意思对即可。\n",
+      "format": {}
+    }
+  ]
+}

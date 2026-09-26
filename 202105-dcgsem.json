@@ -1,0 +1,85 @@
+{
+  "id": "202105-dcgsem",
+  "title": "2021·东城二模",
+  "year": "2020-2021",
+  "month": 202105,
+  "source": "东城",
+  "grade": 3,
+  "type": "二模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 510,
+      "paragraphs": [
+        {
+          "text": "宰予昼寝。子曰：“朽木不可雕也，粪土之墙不可朽也；于予与何诛？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 717,
+      "paragraphs": [
+        {
+          "text": "子曰：“加我数年，五十以学《易》，可以无大过矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 917,
+      "paragraphs": [
+        {
+          "text": "子在川上曰：“逝者如斯夫，不舍昼夜。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1310,
+      "paragraphs": [
+        {
+          "text": "子曰：“苟有用我者，期月而已可也，三年有成。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“宰予昼寝”和“不舍昼夜”。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上材料，简述孔子对时间的认识。（4分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "参考答案：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）宰予在白天睡觉；白天黑夜都不停止。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）浪费时间，就是浪费生命；利用时间，不断学习，增加个体生命质量；时间飞逝，时不我待；利用时间，事业有成。",
+      "format": {}
+    }
+  ]
+}

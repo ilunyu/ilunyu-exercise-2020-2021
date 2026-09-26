@@ -1,0 +1,97 @@
+{
+  "id": "202101-tzgsqm",
+  "title": "2021·通州高三期末",
+  "year": "2020-2021",
+  "month": 202101,
+  "source": "通州",
+  "grade": 3,
+  "type": "期末",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 925,
+      "sourcename": "《子罕》",
+      "paragraphs": [
+        {
+          "text": "子曰：“主忠信，毋友不如己者，过则勿惮改。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 14
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 603,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "哀公问：“弟子孰为好学？”孔子对曰：“有颜回者好学，不迁怒，不贰过。不幸短命死矣！今也则亡，未闻好学者也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 717,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“加我数年，五十以学《易》，可以无大过矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“主忠信，毋友不如己者”。（1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上三则材料，概括回答孔子对于“过”有哪些认识，并就其中一点谈谈对你的启示。（5 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案要点：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）要以忠信两种道德为主，不要与不如自己（不忠不信）的人交朋友。（1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）孔子认为:犯了错误，要勇于改正；不重复犯同样的过错；不断学习经典，可以不犯大错。（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "启示：略（2 分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}

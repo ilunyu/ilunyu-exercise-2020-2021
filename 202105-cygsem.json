@@ -1,0 +1,62 @@
+{
+  "id": "202105-cygsem",
+  "title": "2021·朝阳二模",
+  "year": "2020-2021",
+  "month": 202105,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "二模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 112,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "有子曰：“礼之用，和为贵。先王之道，斯为美。小大由之。有所不行。知和而和，不以礼节之，亦不可行也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1323,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子和而不同，小人同而不和。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "12.请解释两则章句中的“和”的含义，再谈谈你对“和”的认识。（6分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "参考答案：“和”：和谐，调和（1分）。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①“和”与“礼”相互作用：在强调礼治的基础上，要注意用“和”来调节；在强调“和谐”的时候，要注意用“礼治”来约束。（3分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②既要保持“和谐”，也要坚持独立。（2分）",
+      "format": {}
+    }
+  ]
+}

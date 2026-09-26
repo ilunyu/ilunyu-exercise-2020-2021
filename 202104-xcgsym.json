@@ -1,0 +1,56 @@
+{
+  "id": "202104-xcgsym",
+  "title": "2021·西城一模",
+  "year": "2020-2021",
+  "month": 202104,
+  "source": "西城",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1309,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "子适卫，冉有仆①。子曰：“庶②矣哉！”冉有曰：“既庶矣，又何加焉？”曰：“富之。”曰：“既富矣，又何加焉？”曰：“教之。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：①仆：御车。②庶：人口众多。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "短文中画线的句子反映了孔子怎样的思想？请用自己的话概述，并举例谈谈你对这一思想的认识。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "参考答案：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "思想：要在老百姓富裕的基础上实施教化。认识：略",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分参考：思想2分，认识3分。",
+      "format": {}
+    }
+  ]
+}

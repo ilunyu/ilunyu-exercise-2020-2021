@@ -1,0 +1,62 @@
+{
+  "id": "202103-ftgsym",
+  "title": "2021·丰台一模",
+  "year": "2020-2021",
+  "month": 202103,
+  "source": "丰台",
+  "grade": 3,
+  "type": "一模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 202,
+      "sourcename": "《为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“《诗》三百，一言以蔽之，曰：‘思无邪’。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1305,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“诵《诗》三百，授之以政，不达；使于四方，不能专对；虽多，亦奚以为？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1613,
+      "sourcename": "《季氏》",
+      "paragraphs": [
+        {
+          "text": "尝独立，鲤趋而过庭。曰：“学《诗》乎？”对曰：“未也。”“不学《诗》，无以言。”鲤退而学《诗》。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“一言以蔽之”与“鲤趋而过庭”。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）综合以上材料，简述孔子重视学习《诗经》的理由。（4分）",
+      "format": {}
+    }
+  ],
+  "answer": []
+}

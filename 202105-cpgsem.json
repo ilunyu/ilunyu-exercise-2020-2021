@@ -1,0 +1,72 @@
+{
+  "id": "202105-cpgsem",
+  "title": "2021·昌平二模",
+  "year": "2020-2021",
+  "month": 202105,
+  "source": "昌平",
+  "grade": 3,
+  "type": "二模",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 515,
+      "sourcename": "《公冶长》",
+      "paragraphs": [
+        {
+          "text": "子贡问曰：“孔文子何以谓之‘文’也？”子曰：“敏而好学，不耻下问，是以谓之‘文’也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 805,
+      "sourcename": "《泰伯》",
+      "paragraphs": [
+        {
+          "text": "曾子曰：“以能问于不能，以多问于寡；有若无，实若虚；犯而不校。昔者吾友尝从事于斯矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“有若无，实若虚；犯而不校”。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上材料，简述孔子与曾子思想的相同点，并谈谈对你的启示。（4分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "参考答案：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）有学问却像没学问一样，满腹的知识却像空虚无所有；即使被冒犯，也不去计较。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）相同点：都主张要有不耻下问的精神。启示略。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "语句解释2分；相同点2分；启示2分。",
+      "format": {}
+    }
+  ]
+}
