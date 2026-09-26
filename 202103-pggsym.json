@@ -1,0 +1,100 @@
+{
+  "id": "202103-pggsym",
+  "title": "2021·平谷一模",
+  "year": "2020-2021",
+  "month": 202103,
+  "source": "平谷",
+  "grade": 3,
+  "type": "一模",
+  "number": 12,
+  "score": 7,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面含有“直”字的《论语》五则，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 619,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“人之生也直，罔之生也幸而免。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 219,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "哀公问曰：“何为则民服？”孔子对曰：“举直错诸枉，则民服；举枉错诸直，则民不服。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 802,
+      "sourcename": "《论语·泰伯》",
+      "paragraphs": [
+        {
+          "text": "子曰：“恭而无礼则劳，慎而无礼则葸，勇而无礼则乱，直而无礼则绞。君子笃于亲，则民兴于仁；故旧不遗，则民不偷。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 816,
+      "sourcename": "《论语·泰伯》",
+      "paragraphs": [
+        {
+          "text": "子曰：“狂而不直，侗而不愿，悾悾而不信，吾不知之矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料⑤",
+      "sourceid": 1434,
+      "sourcename": "《论语·宪问》",
+      "paragraphs": [
+        {
+          "text": "或曰：“以德报怨，何如？”子曰：“何以报德？以直报怨，以德报德。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）概括“直”字的几种释义。（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合语句，联系现实，谈谈孔子认为的“直”带给你的启示。（4 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）①正直（的人），②直爽（坦白、爽快、直率），③公平（刚直不屈）。（每点 1 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）启示（1 分），结合语句（1 分），联系现实（2 分）。",
+      "format": {}
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "202104-sygsem",
+  "title": "2021·顺义二模",
+  "year": "2020-2021",
+  "month": 202104,
+  "source": "顺义",
+  "grade": 3,
+  "type": "二模",
+  "number": 12,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读《论语·乡党》第 9 章，回答（1）（2）题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1017,
+      "sourcename": "《论语·乡党》",
+      "paragraphs": [
+        {
+          "text": "厩焚，子退朝，曰：伤人乎不问马。",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 9,
+                  "end": 15
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）文言文中，“不”常常通“否”，因此，本章划线部分可以有多种断句，其中最不恰当的一项是（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A.伤人乎/不问马",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B.伤人乎不/问马",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "C.伤人/乎不/问马",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "D.伤人乎/不/问马",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）这一章，体现出孔子什么思想？（2 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）C（3分）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "“乎”为表疑问语气词，与前面分开、与“不”结合，都不通。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）参考答案：人本思想（仁爱；仁；以人为本；重视人，不重视物；首先重视人，然后才是物）（2分）",
+      "format": {}
+    }
+  ]
+}

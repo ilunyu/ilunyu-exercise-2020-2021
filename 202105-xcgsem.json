@@ -1,0 +1,92 @@
+{
+  "id": "202105-xcgsem",
+  "title": "2021·西城二模",
+  "year": "2020-2021",
+  "month": 202105,
+  "source": "西城",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 418,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“事父母几①谏。见志不从，又敬不违，劳而不怨。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1223,
+      "sourcename": "《颜渊》",
+      "paragraphs": [
+        {
+          "text": "子贡问友。子曰：“忠告而善道②之，不可则止，毋自辱焉。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：①几：轻微，婉转。②道：引导。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）“劳”有“劳累”和“忧虑”的意思，材料中“劳而不怨”的“劳”的意思应该是______。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）综合以上材料，简述孔子在对待父母和朋友方面的共同原则，并简要谈谈你对此的看法。（4 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）参考答案：忧虑（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）参考答案：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "原则：自己的意见不被接受就不再劝说。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "看法：略",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分参考】原则 2 分，看法 2 分。",
+      "format": {}
+    }
+  ]
+}

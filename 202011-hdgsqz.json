@@ -1,0 +1,76 @@
+{
+  "id": "202011-hdgsqz",
+  "title": "2020·海淀高三期中",
+  "year": "2020-2021",
+  "month": 202011,
+  "source": "海淀",
+  "grade": 3,
+  "type": "期中",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 103,
+      "sourcename": "《论语∙学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“巧言令色，鲜矣仁！”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 2003,
+      "sourcename": "《论语∙尧曰》",
+      "paragraphs": [
+        {
+          "text": "孔子曰：“不知命，无以为君子也；不知礼，无以立也；不知言，无以知人也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 422,
+      "sourcename": "《论语∙里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“古者言之不出，耻躬之不逮也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "综合以上材料，概括回答孔子对于“言”有哪些认识，并就其中一点谈谈你受到的启发。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "认识：言要真诚实在；言是品行的外化；应慎言。（3分）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分说明】每点1分。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "启示：略。（3分）",
+      "format": {}
+    }
+  ]
+}
